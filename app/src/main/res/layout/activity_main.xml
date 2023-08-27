@@ -10,12 +10,14 @@
     <EditText
         android:id="@+id/email_et"
         android:hint="email"
+        android:inputType="textEmailAddress"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"/>
     <EditText
         android:id="@+id/pw_et"
         android:hint="password"
+        android:inputType="textPassword"
         android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>

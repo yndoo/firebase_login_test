@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602355675897",
+    "project_id": "fb-login-test-cd90f",
+    "storage_bucket": "fb-login-test-cd90f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602355675897:android:464b7684c66f222aab2828",
+        "android_client_info": {
+          "package_name": "com.yndoo.fb_login_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602355675897-79nst4qs3gc8lnvd4kldtcit9loe9o9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgM3gemb-7EtuBxSn8I3eAYscziLxxJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602355675897-79nst4qs3gc8lnvd4kldtcit9loe9o9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
